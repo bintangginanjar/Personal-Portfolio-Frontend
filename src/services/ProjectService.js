@@ -4,7 +4,7 @@ const API_URL = "http://localhost:8080";
 
 class ProjectService {
     getAll() {
-        return axios.get('http://localhost:8080/api/projects')
+        return axios.get(API_URL + '/api/projects')
     }
 }
 

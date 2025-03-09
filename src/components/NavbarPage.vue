@@ -52,10 +52,10 @@ onBeforeMount(() => {
                                 <a href="#about" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">About Me</a>
                             </li>
                             <li class="group">
-                                <a href="#home" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">Portfolio</a>
+                                <a href="#home" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">Project</a>
                             </li>
                             <li class="group">
-                                <a href="#home" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">Clients</a>
+                                <a href="#home" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">Expertise</a>
                             </li>
                             <li class="group">
                                 <a href="#home" class="text-base text-dark py-2 mx-8 flex group-hover:text-primary">Contact</a>

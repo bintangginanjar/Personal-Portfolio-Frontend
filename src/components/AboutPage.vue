@@ -7,11 +7,11 @@
             <div class="flex flex-wrap">
                 <div class="w-full px-4 mb-10 lg:w-1/2">
                     <h4 class="font-bold uppercase text-primary text-lg mb-3">About Me</h4>
-                    <h2 class="font-bold text-dark text-3xl mb-5 max-w-md lg:text-4xl">Exprienced Full Stack Developer</h2>
+                    <h2 class="font-bold text-dark text-3xl mb-5 max-w-md lg:text-4xl">Experienced Full Stack Developer</h2>
                     <p class="font-medium text-base text-secondary max-w-xl lg:text-lg">I'm eager solve your problem through <span class="text-dark font-bold">Software as a Service</span></p>
                 </div>
                 <div class="w-full px-4 lg:w-1/2">
-                    <h3 class="font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">Let's connect</h3>
+                    <h3 class="font-semibold text-dark text-2xl mb-4 lg:text-4xl lg:pt-10">Let's connect</h3>
                     <p class="font-medium text-base text-secondary mb-6 lg:text-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, aspernatur. Autem consequatur architecto dignissimos, nobis amet repellat culpa esse aliquam aliquid nam debitis voluptatibus odio recusandae ea odit, alias officiis.</p>
                     <div class="flex items-center">
                         <a href="" class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border text-primary border-dark hover:border-primary hover:bg-primary hover:text-white">
